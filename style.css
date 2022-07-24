@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: orange;
+    color: yellowgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+
+}
+ header nav{
+    background: green;
+    height: 80px;
+    
+}
+
+.intro{
+height: 100vh;
+background: rgb(112, 73, 73);
+}
+
+.about{
+height: 100vh;
+background: rgb(55, 20, 20);
+}
+.service{
+ height: 100vh;
+ background: rgb(55, 54, 52);
+}
+
+footer.footer-pad{
+background: blue;
+}
+footer.footer-pad a{
+color: rgb(93, 56, 56);
+}
